@@ -63,4 +63,4 @@ case "${@}" in
  check
  ;;
 esac
-exit 
+exit 0
