@@ -21,7 +21,7 @@ fi
 
 # Check and set the dig command
 DIG_EXEC=${DIG_EXEC:-"DEFAULT"} # Use DEFAULT if not set
-CUSTOM_DIG='/wifi/data/com.termux/files/home/go/bin/fastdig'
+CUSTOM_DIG='/data/data/com.termux/files/home/go/bin/fastdig'
 
 # Determine the dig command based on user choice
 DIG_CMD=""
