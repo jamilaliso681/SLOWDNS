@@ -5,7 +5,7 @@
 # Recoded by: Jamil Aliso
 
 # Your DNSTT Nameservers
-declare -a NAMESERVERS=('ns.phvxsqmbql.ssh-websurf.cloud' 'hk1-ns.jkimdns.com' 'sg1-ns.jkimdns.com' 'sg2-ns.jkimdns.com' 'priv-sg.ns.jkimdns.com')
+declare -a NAMESERVERS=('ns.phvxsqmbql.ssh-websurf.cloud' 'sg1-dns.microsshsvr.host' 'sg1-ns.jkimdns.com' 'sg2-ns.jkimdns.com' 'priv-sg.ns.jkimdns.com')
 # Your Domain `A` Record
 A_RECORD='jkimdns.com'
 
