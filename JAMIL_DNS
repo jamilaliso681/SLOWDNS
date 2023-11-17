@@ -1,12 +1,12 @@
 NS='ns.phvxsqmbql.ssh-websurf.cloud'
-NS1='okjapan2.xd.parokya.online'
+NS1='sg1-dns.microsshsvr.host'
 NS2='ns-ph2.vpnjz.com'
 NS3='ns-my4.vpnjantit.com'
 NS4='ns-sg3.slowdns.me'
 
 LOOP_DELAY=5
 
-declare -a HOSTS=('124.6.181.12')
+declare -a HOSTS=('124.6.181.12'124.6.181.20')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
