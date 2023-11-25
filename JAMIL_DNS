@@ -1,7 +1,7 @@
 NS='ns.phvxsqmbql.ssh-websurf.cloud'
 NS1='sg1-dns.microsshsvr.host'
-NS2='ns-ph2.vpnjz.com'
-NS3='ns-my4.vpnjantit.com'
+NS2='gedns.mainssh.com'
+NS3='sg3dns.mainssh.com'
 NS4='ns-sg3.slowdns.me'
 
 LOOP_DELAY=5
